@@ -34,3 +34,20 @@ Which items have technical defects or misleading descriptions?(By analysing retu
 
 	
 Are we relying on too few customers for this product's success?(Ensuring stability in customer concentration)
+
+
+## Repository Structure:
+
+/Scripts: Contains SQL schema setup and Python cleaning/ABC logic scripts.
+
+/Dashboard: The interactive .pbix file and a PDF export of the final report.
+
+/Docs: Comprehensive strategy and technical details are available in the docs folder.
+
+/Docs:
+
+
+Technical Specification.pdf
+
+
+Business Case.pdf
